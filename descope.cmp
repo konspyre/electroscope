@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Mon 28 Apr 2014 02:24:33 PM PDT
+
+BeginCmp
+TimeStamp = /52E82171;
+Reference = ANT1;
+ValeurCmp = ANTENNA;
+IdModule  = ANT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E82164;
+Reference = ANT2;
+ValeurCmp = ANTENNA;
+IdModule  = ANT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EEA698;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = BSPCMF-9VBATT-SNAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1B1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F0CA;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349D140;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349D0D7;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F08E;
+Reference = Q1;
+ValeurCmp = 2N3906;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F09D;
+Reference = Q2;
+ValeurCmp = 2N3904;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1B7;
+Reference = Q3;
+ValeurCmp = 2N3906;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1C3;
+Reference = Q4;
+ValeurCmp = 2N3904;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1BD;
+Reference = Q5;
+ValeurCmp = 2N3906;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1C9;
+Reference = Q6;
+ValeurCmp = 2N3904;
+IdModule  = SOT23_INV;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F199;
+Reference = R1;
+ValeurCmp = 100Ω;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F19F;
+Reference = R2;
+ValeurCmp = 1MΩ;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F193;
+Reference = R3;
+ValeurCmp = 100KΩ;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1A5;
+Reference = R4;
+ValeurCmp = 100KΩ;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F0B9;
+Reference = R5;
+ValeurCmp = 1MΩ;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E1F1AB;
+Reference = R6;
+ValeurCmp = 100Ω;
+IdModule  = SM0603;
+EndCmp
+
+EndListe

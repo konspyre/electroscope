@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 02 Feb 2014 12:48:28 PM PST
+#
+$CMP ANTENNA
+D Antenna
+K antenna
+$ENDCMP
+#
+#End Doc Library
