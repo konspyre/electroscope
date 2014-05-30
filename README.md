@@ -14,11 +14,11 @@ This BOM specifies the amount needed for _one_ board.
 
 | Quantity | Description | Digikey Part Number | Board Placement |
 | -------- | ----------- | ----------- | --------------- |
-| 3        | 2N3906      | [MMBT3906FSCT-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=MMBT3906FSCT-ND) | Right (label: 2N3906) |
-| 3 	   | 2N3904	 | [MMBT3904FSCT-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=MMBT3904FSCT-ND) | Left (label: 2N3904) |
-| 2        | 100 ohm resistor (0603 imperial) | [1276-5038-1-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=1276-5038-1-ND) | Bottom (label: 100 ohm) |
-| 2        | 100k ohm resistor (0603 imperial) | [1276-5110-1-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=1276-5110-1-ND) | Middle (label: 100k ohm) |
-| 2	   | 1M ohm resistor (0603 imperial) | [311-1.00MHRCT-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=311-1.00MHRCT-ND) | Top (label: 1M ohm) |
+| 3        | 2N3906      | [MMBT3906FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3906/MMBT3906FSCT-ND/458972) | Right (label: 2N3906) |
+| 3 	   | 2N3904	 | [MMBT3904FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3904/MMBT3904FSCT-ND/458971) | Left (label: 2N3904) |
+| 2        | 100 ohm resistor (0603 imperial) | [1276-5038-1-ND](http://www.digikey.com/product-detail/en/RC1608J101CS/1276-5038-1-ND/) | Bottom (label: 100 ohm) |
+| 2        | 100k ohm resistor (0603 imperial) | [1276-5110-1-ND](http://www.digikey.com/product-detail/en/RC1608J104CS/1276-5110-1-ND) | Middle (label: 100k ohm) |
+| 2	   | 1M ohm resistor (0603 imperial) | [311-1.00MHRCT-ND](http://www.digikey.com/product-detail/en/RC0603FR-071ML/311-1.00MHRCT-ND/) | Top (label: 1M ohm) |
 | 1        | 9v female PCB mount snap | [BSPCF](http://www.digikey.com/product-search/en?vendor=0&keywords=BSPCF) | 9V+ terminal (verify before soldering by attaching to a 9V battery -- reworking afterwards is difficult without specialized tools/materials) |
 | 1        | 9v male PCB mount snap | [BSPCM](http://www.digikey.com/product-search/en?vendor=0&keywords=BSPCM) |  9v- terminal |
 
