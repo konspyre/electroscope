@@ -1,5 +1,7 @@
 # Toy Electroscope
 
+This is an Electroscope done up using a design from Alan "vk2zay" Yates in his [Making Electrets](http://www.youtube.com/watch?v=1DR-tTU8uIM) video.
+
 ![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top-old-ver-kapton.png)
 
 (Older version using 0603 LEDs and square pads on the left, current version is on the right)
