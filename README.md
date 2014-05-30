@@ -2,13 +2,11 @@
 
 ![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top-old-ver-kapton.png)
 
-### Boring blog post
+(Older version using 0603 LEDs and square pads on the left, current version is on the right)
 
-[Here](http://open.konspyre.org/blog/2014/05/30/electroscope/)
+### [Boring blog post](http://open.konspyre.org/blog/2014/05/30/electroscope/)
 
-### Fabrication (OSHPark shared project)
-
-[Click here](https://www.oshpark.com/shared_projects/KFA2jmSs)
+### [Fabrication (OSHPark shared project)](https://www.oshpark.com/shared_projects/KFA2jmSs)
 
 ### Bill of Materials
 
