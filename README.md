@@ -39,3 +39,7 @@ works well (the twisted termination used in the photos is just a fancy flourish)
 ### License
 
 [Creative Commons Attribution/Share-Alike](http://creativecommons.org/licenses/by-sa/4.0/)
+
+Original design/schematic by [Alan "vk2zay" Yates](http://twitter.com/vk2zay)
+
+
