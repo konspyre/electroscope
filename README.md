@@ -34,3 +34,7 @@ _Pick either the 3mm LEDs or surface mount 0805s -- the 3mm LEDs are recommended
 
 There is no part for this, so you'll have to make your own. A simple loop soldered together usually
 works well (the twisted termination used in the photos is just a fancy flourish).
+
+### Boring blog post
+
+[Here](http://open.konspyre.org/blog/2014/05/30/electroscope/)
