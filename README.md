@@ -1,6 +1,6 @@
 # Toy Electroscope
 
-[!Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top1.png)
+![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top1.png)
 
 ### Fabrication (OSHPark shared project)
 
