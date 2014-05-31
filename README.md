@@ -2,13 +2,11 @@
 
 This is an Electroscope done up using a design from Alan "vk2zay" Yates in his [Making Electrets](http://www.youtube.com/watch?v=1DR-tTU8uIM) video.
 
-![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top-old-ver-kapton.png)
+![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top2.png)
 
-(Older version using 0603 LEDs and square pads on the left, current version is on the right)
+### [Blag](http://open.konspyre.org/blog/2014/05/30/electroscope/)
 
-### [Boring blog post](http://open.konspyre.org/blog/2014/05/30/electroscope/)
-
-### [Fabrication (OSHPark shared project)](https://www.oshpark.com/shared_projects/KFA2jmSs)
+### [Fabrication (OSHPark Shared Project)](https://www.oshpark.com/shared_projects/KFA2jmSs)
 
 ### Bill of Materials
 
@@ -37,6 +35,10 @@ _Pick either the 3mm LEDs or surface mount 0805s -- the 3mm LEDs are recommended
 
 There is no part for this, so you'll have to make your own. A simple loop soldered together usually
 works well (the twisted termination used in the photos is just a fancy flourish).
+
+#### Optional
+
+Shielding: I experimented with a three-layered combination of kapton/polymide tape (to cover the BJTs), copper tape (edge to edge, touching the exposed ground edges), and then another layer of kapton/polymide to keep the copper looking nicely unscuffed by oils (from fingers).
 
 ### License
 
