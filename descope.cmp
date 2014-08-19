@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Mon 28 Apr 2014 02:24:33 PM PDT
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Mon 18 Aug 2014 04:11:45 PM PDT
 
 BeginCmp
 TimeStamp = /52E82171;
@@ -18,7 +18,7 @@ BeginCmp
 TimeStamp = /52EEA698;
 Reference = BT1;
 ValeurCmp = BATTERY;
-IdModule  = BSPCMF-9VBATT-SNAP;
+IdModule  = BATT_CONN_SIMPLE;
 EndCmp
 
 BeginCmp
