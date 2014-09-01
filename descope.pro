@@ -1,6 +1,6 @@
-update=Fri 30 May 2014 01:37:34 PM PDT
+update=Sun 31 Aug 2014 05:47:29 PM PDT
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -46,6 +46,8 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [pcbnew]
 version=1
 LastNetListRead=
@@ -84,5 +86,4 @@ LibName14=led
 LibName15=dip_sockets
 LibName16=pga_sockets
 LibName17=valves
-[general]
-version=1
+LibName18=OSHW-logo
