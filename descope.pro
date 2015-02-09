@@ -1,6 +1,11 @@
-update=Fri 30 May 2014 01:37:34 PM PDT
+update=Mon 12 May 2014 05:01:21 AM PDT
 version=1
-last_client=kicad
+last_client=pcbnew
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=
@@ -41,19 +46,16 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=descope
-[cvpcb]
+[general]
 version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill="    2.692400"
-PadDrillOvalY="    2.692400"
-PadSizeH="    3.048000"
-PadSizeV="    3.048000"
+PadDrill="    3.048000"
+PadDrillOvalY="    3.048000"
+PadSizeH="    3.810000"
+PadSizeV="    3.810000"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -84,5 +86,4 @@ LibName14=led
 LibName15=dip_sockets
 LibName16=pga_sockets
 LibName17=valves
-[general]
-version=1
+LibName18=/home/davidk/projects/hardware/parts_library/battery_snaps
