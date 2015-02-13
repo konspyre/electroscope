@@ -2,11 +2,19 @@
 
 This is an Electroscope done up using a design from Alan "vk2zay" Yates in his [Making Electrets](http://www.youtube.com/watch?v=1DR-tTU8uIM) video.
 
-![Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/top2.png)
+![Updated Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/electroscope_08_24.png)
 
-### [Blag](http://open.konspyre.org/blog/2014/05/30/electroscope/)
+### Postings
 
-### [Fabrication (OSHPark Shared Project)](https://www.oshpark.com/shared_projects/KFA2jmSs)
+[Updated electroscope](http://open.konspyre.org/blog/2015-02-10-electroscope-update/)
+
+[Initial release](http://open.konspyre.org/blog/2014/05/30/electroscope/)
+
+### Direct fabrication
+
+Latest/updated (use this one): [Updated electroscope (OSHPark shared project)](https://oshpark.com/shared_projects/x89XVFQf)
+
+Older: [Old electroscope (OSHPark shared project)](https://www.oshpark.com/shared_projects/KFA2jmSs)
 
 ### Bill of Materials
 
@@ -24,7 +32,7 @@ This BOM specifies the amount needed for _one_ board.
 
 #### LEDs
 
-_Pick either the 3mm LEDs or surface mount 0805s -- the 3mm LEDs are recommended_
+_Pick either the 3mm LEDs or surface mount 0805s_
 
 | Quantity | Description | Digikey Part Number | Board Placement |
 | -------- | ----------- | ----------- | --------------- |
