@@ -42,7 +42,7 @@ _Pick either the 3mm LEDs or surface mount 0805s_
 #### Antenna
 
 There is no part for this, so you'll have to make your own. A simple loop soldered together usually
-works well (the twisted termination used in the photos is just a fancy flourish).
+works well (the twisted termination used in the [previous photos](https://open.konspyre.org/assets/images/electroscope/top-old-ver-kapton.png) is just a fancy flourish).
 
 #### Optional
 
