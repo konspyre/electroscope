@@ -1,5 +1,7 @@
 # Toy Electroscope
 
+Elsewhere: Check out the [through-hole version](https://github.com/konspyre/electroscope-through) of this electroscope
+
 This is an Electroscope done up using a design from Alan "vk2zay" Yates in his [Making Electrets](http://www.youtube.com/watch?v=1DR-tTU8uIM) video.
 
 ![Updated Toy Electroscope](http://open.konspyre.org/assets/images/electroscope/electroscope_08_24.png)
